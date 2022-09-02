@@ -8,7 +8,7 @@
 
 ## Tecnologias
 <div style="display: inline_block"><br>
-  <img align="center" alt="java" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="spring" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" /> ㅤ
-  <img align="center" alt="eclipse" height="55" width="55"  src="https://user-images.githubusercontent.com/96744647/178086070-7873e352-6d19-439c-a6f3-621c2721cc65.png" />
+  <img align="center" alt="java" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="spring" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" /> ㅤ
+  <img align="center" alt="eclipse" height="35" width="35"  src="https://user-images.githubusercontent.com/96744647/178086070-7873e352-6d19-439c-a6f3-621c2721cc65.png" />
 </div>
